@@ -1,0 +1,19 @@
+.nav-container {
+    margin-top: 10px;
+}
+
+.text-style {
+    text-decoration: none;
+    color: #323232;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 17px;
+    transition: all 0.1s;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-style:hover {
+    color:#45AE6E;
+    text-decoration: none;
+    border-bottom: 2px solid #52B765;
+}

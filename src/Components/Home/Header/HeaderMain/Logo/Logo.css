@@ -1,0 +1,19 @@
+.logo-container {
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 13px;
+}
+
+.logo-container img {
+    height: 35px;
+    margin-top: 3px;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+.logo-container h1 {
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 35px;
+    color: #323232;
+}

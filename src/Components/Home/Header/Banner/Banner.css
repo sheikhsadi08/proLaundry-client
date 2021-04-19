@@ -1,0 +1,31 @@
+.banner-container {
+    height: 455px;
+}
+
+
+.banner-container h1 {
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 30px;
+    font-weight: 600;
+    font-size: 50px;
+    margin-top: -16px;
+    color: #323232;
+}
+
+.banner-container p {
+    font-family: 'Poppins', sans-serif;
+    line-height: 0.8;
+    font-weight: 500;
+    font-size: 20px;
+    color: #323232;
+}
+
+.banner-container button {
+    margin-top: 25px;
+}
+
+.image-container img {
+    width: 532px;
+    height: 370px;
+    margin: auto;
+}

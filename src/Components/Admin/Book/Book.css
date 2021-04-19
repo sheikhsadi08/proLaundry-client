@@ -1,0 +1,12 @@
+.book-container {
+    font-family: 'Poppins', sans-serif;
+    margin: 29px 0px 0px 100px;
+}
+
+.book-container h2 {
+    margin-bottom: 20px;
+}
+
+.book-container a {
+    margin-top: 20px;;
+}

@@ -1,0 +1,19 @@
+.review-container {
+    width: 80%;
+    margin: 120px auto;
+    margin-bottom: 170px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+}
+
+.review-heading {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 60px;
+}
+
+.review-heading span {
+    color: #52B765;
+}

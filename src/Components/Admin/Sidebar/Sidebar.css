@@ -1,0 +1,21 @@
+.sidebar-links {
+    list-style-type: none;
+    margin-top: 31px;
+    margin-left: 5px;
+}
+
+.sidebar-links li {
+    padding-bottom: 13px;
+}
+
+.sidebar-links li svg {
+    color: #07a724;
+    text-align: center;
+    
+}
+
+.sidebar-links li a {
+    color: #07a724;
+    font-weight: 500;
+    margin-left: 5px;
+}
